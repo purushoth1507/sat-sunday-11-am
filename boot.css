@@ -1,0 +1,90 @@
+/* /* h1{
+    color: blueviolet;
+    background-color: black;
+}
+
+
+p{
+    color: aquamarine;
+}
+
+#dd{
+    color: brown;
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+ */
+
+table,th,td{
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    padding: 10px;  
+    border-radius: 10%;
+
+    
+
+} 
+
+
+
+/* img{
+    height: 50%;
+    width: 40%; 
+  opacity: 0.5; 
+  float:right;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* table{
+        border-radius: 20%;
+} */
+th{
+    /* background-color: blue; */
+    border-style: ridge;
+/* } 
+ p{
+    color: bisque;
+ }  */
+
+/* .ice{
+    color: red;
+}  */
+/* 
+#eee{
+    color: blueviolet; 
+    background-color: chartreuse;
+}
+ a:link{
+    text-decoration: none;
+ }  
+
+ button{
+    
+    font-size: large; 
+    border-style:ridge;
+ }  */
+
+
+
+
+
+
+
+
+
+
+
+ */
